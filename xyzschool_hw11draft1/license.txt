@@ -1,0 +1,11 @@
+Model Information:
+* title:	XYZSchool_HW11[DRAFT1]
+* source:	https://sketchfab.com/3d-models/xyzschool-hw11draft1-98dd2f1a5acb43548a5ddd771e37a076
+* author:	Kotyambuss (https://sketchfab.com/k.suhoveev2000)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "XYZSchool_HW11[DRAFT1]" (https://sketchfab.com/3d-models/xyzschool-hw11draft1-98dd2f1a5acb43548a5ddd771e37a076) by Kotyambuss (https://sketchfab.com/k.suhoveev2000) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

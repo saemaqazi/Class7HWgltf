@@ -1,0 +1,11 @@
+Model Information:
+* title:	Église catholique Notre-Dame-de-l'Assomption
+* source:	https://sketchfab.com/3d-models/eglise-catholique-notre-dame-de-lassomption-e230bf4f9f51469aac7df09523832b20
+* author:	Air Digital Historical Scanning Archive (https://sketchfab.com/AirDigitalca)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Église catholique Notre-Dame-de-l'Assomption" (https://sketchfab.com/3d-models/eglise-catholique-notre-dame-de-lassomption-e230bf4f9f51469aac7df09523832b20) by Air Digital Historical Scanning Archive (https://sketchfab.com/AirDigitalca) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

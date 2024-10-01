@@ -1,0 +1,11 @@
+Model Information:
+* title:	JWA Cryolophosaurus
+* source:	https://sketchfab.com/3d-models/jwa-cryolophosaurus-5b4f597cd1af44cc94ddcc6bc980ad60
+* author:	Jurassic Radassic (https://sketchfab.com/Radassic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "JWA Cryolophosaurus" (https://sketchfab.com/3d-models/jwa-cryolophosaurus-5b4f597cd1af44cc94ddcc6bc980ad60) by Jurassic Radassic (https://sketchfab.com/Radassic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
